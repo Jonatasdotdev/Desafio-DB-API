@@ -30,14 +30,14 @@ O relatório com as respostas do teste de banco de dados pode ser encontrado em:
 ## Como Executar
 
 ### Backend:
-cd backend
-python app.py
-(é necessario instalar as libs se nao as tiver)
+- cd backend
+- python app.py
+- (é necessario instalar as libs se nao as tiver)
 
 ### Frontend:
-cd frontend
-npm install
-npm run serve
+- cd frontend
+- npm install
+- npm run serve
 
 
 
